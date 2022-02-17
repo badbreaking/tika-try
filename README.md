@@ -3,8 +3,14 @@ Tika can be used for experiments without any additional applications.
 How to install it:
 
 1) docker-compose up -d
-2) If you don't have cul installed you can install it locally. sudo snap install curl
-3) Run this command as a test in your terminal:
+2) If you don't have curl installed you can install it locally. 
+
+```
+sudo snap install curl
+
+```
+
+4) Run this command as a test in your terminal:
 
 
 ```
